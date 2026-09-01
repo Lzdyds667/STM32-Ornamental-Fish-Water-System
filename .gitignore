@@ -1,0 +1,25 @@
+# Keil 编译输出
+Objects/
+Listings/
+
+# Keil 调试配置
+DebugConfig/
+
+# Keil 用户个人配置
+*.uvguix.*
+
+# 编译生成文件
+*.o
+*.d
+*.crf
+*.axf
+*.map
+*.lst
+*.htm
+*.lnp
+*.dep
+
+# 临时文件
+*.bak
+*.tmp
+*.log
