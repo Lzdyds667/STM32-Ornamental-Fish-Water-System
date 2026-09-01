@@ -132,7 +132,7 @@ ESP8266 建立 Web Server，通过浏览器访问系统网页，可以查看当�
 
 
 
-!\[Web监测页面](images/web.png)
+!\[Web监测页面](images/web.jpg)
 
 
 
